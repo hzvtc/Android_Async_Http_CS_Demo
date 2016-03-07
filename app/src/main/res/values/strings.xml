@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android_Async_Http_CS_Demo</string>
+    <string name="username">用户名:</string>
+    <string name="tv_password">密码</string>
+    <string name="login_btn">登录</string>
+    <string name="result">显示内容区</string>
+</resources>
